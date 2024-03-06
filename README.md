@@ -11,7 +11,7 @@ In the `Data_processing.ipynb` file, the following steps are performed:
 
 ## Model Training and Evaluation
 
-In the `SimpsonsClassification_test.ipynb` file, the following tasks are carried out:
+In the `SimpsonsClassifier.ipynb` file, the following tasks are carried out:
 1. Read the dataset.
 2. Create data loaders for training and validation data.
 3. Train the model and display metrics for the validation data.
